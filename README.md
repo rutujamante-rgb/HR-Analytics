@@ -115,4 +115,4 @@ Support strategic planning and workforce optimization
 
 Overall, the dashboard transforms raw HR data into meaningful business insights that help organizations build a more stable and productive workforce.
 
-6.Screenshot of Dashboard-
+6.Screenshot of Dashboard-https://github.com/rutujamante-rgb/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png
