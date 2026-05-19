@@ -1,5 +1,6 @@
 # HR Analytics Dashboard – Employee Attrition Analysis
 1. Project Title / Headline
+   
 HR Analytics Dashboard | Employee Attrition & Workforce Insights Using Power BI
 
 An interactive HR Analytics Dashboard designed to analyze employee attrition trends, workforce demographics, salary distribution, and job role performance to support strategic HR decision-making.
